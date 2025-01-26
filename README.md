@@ -1,6 +1,6 @@
-# wapp
+# Weather App
 
-A new Flutter project.
+A simple weather application built with Flutter, providing real-time weather information for multiple cities. The app offers users an intuitive interface to track weather conditions, temperature, humidity, and wind speed across different locations.
 
 ## Getting Started
 
